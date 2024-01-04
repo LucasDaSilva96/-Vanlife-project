@@ -2,10 +2,10 @@
 
 ## This is my version of the Vanlife project from Scrimba, and the goal of this project is to practice react-router.
 
-![Preview-image of the app](/img/Vanlife-app-1.png "Vans page")
-![Preview-image of the app](/img/Vanlife-app-2.png "Host dashboard page")
-![Preview-image of the app](/img/Vanlife-app-3.png "Host income page")
-![Preview-image of the app](/img/Vanlife-app-4.png "Host review page")
+![Preview-image of the app](/public/img/Vanlife-app-1.png "Vans page")
+![Preview-image of the app](/public/img/Vanlife-app-2.png "Host dashboard page")
+![Preview-image of the app](/public/img/Vanlife-app-3.png "Host income page")
+![Preview-image of the app](/public/img/Vanlife-app-4.png "Host review page")
 
 ### Auth-logic
 
