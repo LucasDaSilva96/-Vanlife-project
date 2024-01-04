@@ -9,11 +9,9 @@ export async function loginAction({ request }) {
 
   if (data) {
     localStorage.setItem("loggedIn", "true");
-    location.href = "/host";
+    throw redirect("/host");
   } else {
     localStorage.setItem("loggedIn", "false");
     throw redirect("/login?message=No user found with those credentials");
   }
-
-  return null;
 }
